@@ -23,7 +23,7 @@ repository               : vin-leon/vin-leon.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/leon-profile.jpg"
+  avatar           : "leon-profile.jpg"
   name             : "Vincent Leon"
   pronouns         : "he/him"  
   bio              : "PhD candidate in Industrial Engineering at University of Illinois Urbana-Champaign"
