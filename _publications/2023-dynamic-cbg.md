@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2023-dynamic-cbg
 excerpt: 'Vincent Leon, S. Rasoul Etesami'
-date: 2023
+date: 2023-07-27
 venue: 'Dynamic Games and Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://link.springer.com/article/10.1007/s13235-023-00518-7'
