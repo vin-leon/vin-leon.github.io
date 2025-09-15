@@ -16,7 +16,10 @@ main:
 
   - title: "Teaching"
     url: /teaching/    
-    
+
+  - title: "Services & Others"
+    url: /services/
+  
   # - title: "Portfolio"
   #   url: /portfolio/
         
