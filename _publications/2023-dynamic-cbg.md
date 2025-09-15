@@ -7,7 +7,7 @@ excerpt: 'Vincent Leon, S. Rasoul Etesami'
 date: 2023-07-27
 venue: 'Dynamic Games and Applications'
 # slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://link.springer.com/article/10.1007/s13235-023-00518-7'
+# paperurl: 'https://link.springer.com/article/10.1007/s13235-023-00518-7'
 # bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
