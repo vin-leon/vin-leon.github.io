@@ -1,7 +1,7 @@
 ---
 title: "Diffusion of Innovation under Limited-Trust Equilibrium"
 collection: publications
-category: conference
+category: conferences
 permalink: /publication/2022-lte-diffution-cdc
 excerpt: 'Vincent Leon, S. Rasoul Etesami, Rakesh Nagi'
 date: 2022-12-06
