@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Invited Talks 
+<h2>Invited Talks</h2>
 
-## Conference Presentation
+
+<h2>Conference Presentation</h2>
