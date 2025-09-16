@@ -6,9 +6,6 @@ permalink: /publication/2022-lte-diffution-cdc
 excerpt: 'Vincent Leon, S. Rasoul Etesami, Rakesh Nagi'
 date: 2022-12-06
 venue: '2022 IEEE 61st Conference on Decision and Control (CDC)'
-# slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-# paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-# citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 In this paper, we consider the diffusion of innovation in social networks using a game-theoretic approach. In our model, each individual plays a coordination game with its neighbors and decides what alternative product to adopt to maximize its payoff. As products are used in conjunction with others and through repeated interactions, individuals are more interested in their long-term benefits and often tend to show trustworthiness to others in order to maximize their long-term payoffs. To capture such trustworthy behavior, we deviate from the expected utility theory and use a new notion of rationality based on the limited-trust equilibrium. By incorporating such rational behavior into the product diffusion model, we analyze the convergence of emerging dynamics to their equilibrium points using a mean-field approximation. In particular, we study the convergence rate of the diffusion process using the absorption probability and the expected absorption time of a reduced-size Markov chain. Simulation shows that when individuals behave trustworthily, their long-term payoffs will increase significantly compared to the case when they are solely self-interested.
