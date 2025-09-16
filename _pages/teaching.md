@@ -14,7 +14,7 @@ I have been working as a teaching assistant at University of Illinois Urbana-Cha
 </ul>
 <h3>Undergraduate-level Courses:</h3>
 <ul>
-  <li>IE 310 - Deterministic Models in Optmzation, a.k.a. Intro to Operations Research (Spring 2025, Spring 2022)</li>
+  <li>IE 310 - Deterministic Models in Optimization, a.k.a. Intro to Operations Research (Spring 2025, Spring 2022)</li>
   <li>SE 320 - Control Systems (Lab Instructor & TA) (Fall 2022, Fall 2021)</li>
   <li>SE 100 - Introduction to ISE (Fall 2020)</li>
 </ul>
