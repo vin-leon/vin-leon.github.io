@@ -10,6 +10,7 @@ I have been working as a teaching assistant at University of Illinois Urbana-Cha
 * IE 521 - Convex Optimization (Fall 2025)
 * IE 529 - Statistics of Big Data and Clustering (Spring 2024)
 * IE 511 - Integer Programming (Spring 2023)
+
 ### Undergraduate-level Courses:
 * IE 310 - Deterministic Models in Optimization, a.k.a. Intro to Operations Research (Spring 2025, Spring 2022)
 * SE 320 - Control Systems (Lab Instructor & TA) (Fall 2022, Fall 2021)
