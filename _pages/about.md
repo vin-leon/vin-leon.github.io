@@ -33,13 +33,13 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 
 ## Recent and Upcoming News 
 
-* [Oct 2025] I will be presenting my work "Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments" (joint work with my Ph.D. advisor [Rasoul Etesami](https://etesami.ise.illinois.edu/)) in the Novel Models in Game Theory and Social Sciences session of the Job Market Showcase track at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta, GA, USA.
+* [Oct 2025] I will be presenting my work "Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments" in the Job Market Showcase track at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta, GA, USA.
 * [Sep 2025] Our paper "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" (joint work with [Iosif Sakos](https://www.sutd.edu.sg/profile/iosif-joseph-sakos/), [Ryann Sim](https://ryanndelion.github.io/), and [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/)) has been accepted to NeurIPS 2025! The article will be arXiv'ed soon.
 * [Sep 2025] I will chair the Massive Inference session at [2025 Allerton Conference](https://allerton.csl.illinois.edu/), Urbana, IL.
 
 ## Past Updates
 * [Apr 2025] I volunteered and presented my work "[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/poster-abstract/)" (poster, joint work with my Ph.D. advisor [Rasoul Etesami](https://etesami.ise.illinois.edu/)) at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/), Urbana, IL.
-* [Jan 2025] I finished my visiting scholar appointment with ESD, SUTD and got back to the midwest!
+* [Jan 2025] I finished my visiting scholar appointment with ESD, SUTD and moved back to the midwest!
 * [Aug 2024] I started my visiting scholar appointment at ESD, SUTD and moved to the beautiful country of Singapore.
 * [Dec 2023] I was invited to give a talk titled "[Limited-Trust in Diffusion of Competing Alternatives Over Social Networks](https://www.sutd.edu.sg/events-listing/vincent-leon-university-of-illinois-at-urbana-champaign-limited-trust-in-diffusion-of-competing-alternatives-over-social-networks-apurv-shukla-texas-am-university-diff/)" at ESD, SUTD.
 
