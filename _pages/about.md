@@ -34,7 +34,7 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 ## Recent and Upcoming News 
 
 * [Oct 2025] I will be presenting my work "Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments" in the Job Market Showcase track at [2025 INFORMS Annual Meeting](https://meetings.informs.org/wordpress/annual/) in Atlanta, GA, USA.
-* [Sep 2025] Our paper "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" (joint work with [Iosif Sakos](https://www.sutd.edu.sg/profile/iosif-joseph-sakos/), [Ryann Sim](https://ryanndelion.github.io/), and [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/)) has been accepted to NeurIPS 2025! The article will be arXiv'ed soon, and see you in San Diego, CA. 
+* [Sep 2025] Our paper "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" (joint work with [Iosif Sakos](https://www.sutd.edu.sg/profile/iosif-joseph-sakos/), [Ryann Sim](https://ryanndelion.github.io/), and [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/)) has been accepted to NeurIPS 2025! The article will be arXiv'ed soon, and see you in San Diego.
 * [Sep 2025] I will chair the Massive Inference session at [2025 Allerton Conference](https://allerton.csl.illinois.edu/), Urbana, IL.
 
 ## Past Updates
