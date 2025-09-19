@@ -14,3 +14,10 @@ I have been serving as a reviewer for the following journals and conferences:
 
 I was the session chair of the following conferences:
 * [Allerton Conference 2025](https://allerton.csl.illinois.edu/) (Session: Massive Inference)
+
+## Languages 
+* Chinese (mandarin) - native proficiency
+* Chinese (cantonese) - native-like proficiency
+* English - full professional proficiency (C1–C2)
+* Spanish - professional working proficiency (B2–C1)
+* French - Elementary proficiency (A2–B1)
