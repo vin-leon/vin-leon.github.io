@@ -20,4 +20,4 @@ I was the session chair of the following conferences:
 * Chinese (cantonese) - native-like proficiency
 * English - full professional proficiency (C1–C2)
 * Spanish - professional working proficiency (B2–C1)
-* French - Elementary proficiency (A2–B1)
+* French - elementary proficiency (A2–B1)
