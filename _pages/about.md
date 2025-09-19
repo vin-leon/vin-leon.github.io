@@ -38,7 +38,7 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 * [Sep 2025] I will chair the Massive Inference session at [2025 Allerton Conference](https://allerton.csl.illinois.edu/), Urbana, IL.
 
 ## Past Updates
-* [Apr 2025] I volunteered and presented my work "[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/poster-abstract/)" (poster, joint work with my Ph.D. advisor [Rasoul Etesami](https://etesami.ise.illinois.edu/)) at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/), Urbana, IL.
+* [Apr 2025] I volunteered and presented my work "[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/poster-abstract/)" (poster) at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/), Urbana, IL.
 * [Jan 2025] I finished my visiting scholar appointment with ESD, SUTD and moved back to the midwest!
 * [Aug 2024] I started my visiting scholar appointment at ESD, SUTD and moved to the beautiful country of Singapore.
 * [Dec 2023] I was invited to give a talk titled "[Limited-Trust in Diffusion of Competing Alternatives Over Social Networks](https://www.sutd.edu.sg/events-listing/vincent-leon-university-of-illinois-at-urbana-champaign-limited-trust-in-diffusion-of-competing-alternatives-over-social-networks-apurv-shukla-texas-am-university-diff/)" at ESD, SUTD.
