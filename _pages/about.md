@@ -23,7 +23,7 @@ Address: 1308 W Main St, CSL Building Rm 125, Urbana, IL 61801, USA
 
 Ph.D. in Industrial Engineering, University of Illinois Urbana-Champaign, IL, USA, expected 2026
 
-B.Eng. in Civil Engineering, The University of Hong Kong, Hong Kong, 2016
+B.Eng. in Civil Engineering (First Class Honours), The University of Hong Kong, Hong Kong, 2016
 
 # Experience 
 
