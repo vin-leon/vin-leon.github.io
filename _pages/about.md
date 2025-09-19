@@ -13,7 +13,7 @@ My research spans **game theory**, **online learning**, **social networks**, and
 
 I am a 2025-26 job market candidate! 
 
-## Contact 
+### Contact
 
 E-mail: `leon18 [at] illinois [dot] edu`
 
