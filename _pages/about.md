@@ -19,15 +19,18 @@ E-mail: `leon18 [at] illinois [dot] edu`
 
 Address: 1308 W Main St, CSL Building Rm 125, Urbana, IL 61801, USA
 
+
 # Education
 
 Ph.D. in Industrial Engineering, University of Illinois Urbana-Champaign, IL, USA, expected 2026
 
 B.Eng. in Civil Engineering (First Class Honours), The University of Hong Kong, Hong Kong, 2016
 
+
 # Experience 
 
 Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of Technology and Design, Aug 2024–Jan 2025
+
 
 # News and Updates
 
@@ -38,6 +41,7 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 * [Sep 2025] I will chair the Massive Inference session at [2025 Allerton Conference](https://allerton.csl.illinois.edu/), Urbana, IL.
 
 ## Past Updates
+
 * [Apr 2025] I volunteered and presented my work "[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/poster-abstract/)" (poster) at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/), Urbana, IL.
 * [Jan 2025] I finished my visiting scholar appointment with ESD, SUTD and moved back to the midwest!
 * [Aug 2024] I started my visiting scholar appointment at ESD, SUTD and moved to the beautiful country of Singapore.
