@@ -20,7 +20,8 @@ E-mail: `leon18 [at] illinois [dot] edu`
 Address: 1308 W Main St, CSL Building Rm 125, Urbana, IL 61801, USA
 
 
-# Education
+Education
+========
 
 Ph.D. in Industrial Engineering, University of Illinois Urbana-Champaign, IL, USA, expected 2026
 
