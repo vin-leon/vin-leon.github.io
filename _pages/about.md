@@ -11,7 +11,7 @@ Welcome! I’m a Ph.D. candidate in Industrial Engineering at [Department of Ind
 
 My research spans **game theory**, **online learning**, **social networks**, and **optimal control**. Specifically, my primary research interests lie in the equilibria of dynamic games, learning algorithm design for multi-agent systems, and online control in networks using the techniques from game theory, optimization, multi-armed bandits and reinforcement learning, with a focus on strategic resource allocation. I am also broadly interested in market design, distributed systems, networked control, inverse game theory, and their applications to cyber security, data privacy, traffic routing, and wireless communication. 
 
-### I am on the 2025-26 postdoc job market!
+### <mark>I am on the 2025-26 postdoc job market!</mark>
 
 ### Contact
 
