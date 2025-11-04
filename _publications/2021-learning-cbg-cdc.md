@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-learning-cbg-cdc
 excerpt: 'Vincent Leon, S. Rasoul Etesami'
-date: 2022-12-14
+date: 2021-12-14
 venue: '2021 60th IEEE Conference on Decision and Control (CDC)'
 ---
 
