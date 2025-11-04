@@ -42,7 +42,6 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 ## Past Updates
 
 * [Sep 2025] Our paper "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" (joint work with [Iosif Sakos](https://www.sutd.edu.sg/profile/iosif-joseph-sakos/), [Ryann Sim](https://ryanndelion.github.io/), and [Antonios Varvitsiotis](https://sites.google.com/site/antoniosvarvitsiotis/)) has been accepted to NeurIPS 2025! The article will be arXiv'ed soon, and see you in San Diego.
-* [Sep 2025] I chaired the Massive Inference session at [2025 Allerton Conference](https://allerton.csl.illinois.edu/), Urbana, IL.
 * [Apr 2025] I volunteered and presented my work "[Online Learning for Dynamic Vickrey-Clarke-Groves Mechanism in Unknown Environments](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/poster-abstract/)" ([poster](files/pdfs/presentations/Leon-VCG-Learning-ISE2025_poster.pdf)) at the [11th Midwest Workshop on Control and Game Theory](https://publish.illinois.edu/11th-midwest-workshop-on-control-and-game-theory/), Urbana, IL.
 * [Jan 2025] I finished my visiting scholar appointment with ESD, SUTD and moved back to the midwest!
 * [Aug 2024] I started my visiting scholar appointment at ESD, SUTD and moved to the beautiful country of Singapore.
