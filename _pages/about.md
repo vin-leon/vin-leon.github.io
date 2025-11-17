@@ -48,6 +48,7 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 * [Dec 2023] I was invited to give a talk titled "[Limited-Trust in Diffusion of Competing Alternatives Over Social Networks](https://www.sutd.edu.sg/events-listing/vincent-leon-university-of-illinois-at-urbana-champaign-limited-trust-in-diffusion-of-competing-alternatives-over-social-networks-apurv-shukla-texas-am-university-diff/)" at ESD, SUTD, Singapore. 
 
 
+# Bio
 
-
+**Vincent Leon** is a PhD candidate in Industrial Engineering at the University of Illinois Urbana-Champaign, advised by Prof. Rasoul Etesami. His research spans game theory, online learning, social networks, and optimal control, with a focus on equilibrium analysis and learning algorithm design for dynamic games and multi-agent systems. He previously served as a visiting scholar at the Singapore University of Technology and Design and received his Bachelor’s degree with First Class Honours from The University of Hong Kong. 
 
