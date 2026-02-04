@@ -35,7 +35,7 @@ Visiting Scholar, Engineering Systems and Design Pillar, Singapore University of
 
 ## Recent and Upcoming News 
 
-* [Dec 2025] I presented the poster "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" at the NeurIPS 2025 in San Diego, CA, USA.
+* [Dec 2025] I presented the poster "Certifying Concavity and Monotonicity in Games via Sum-of-Squares Hierarchies" ([poster](files/pdfs/presentations/Leon-sos-concave-games-poster-NeurIPS2025.pdf)) at the NeurIPS 2025 in San Diego, CA, USA.
 
 ## Past Updates
 
